@@ -1,4 +1,24 @@
 # 참! 참! 참! 게임
+
+<br>
+
+<p align='center'>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
+
+<img src='https://raw.githubusercontent.com/innovationacademy-kr/our42vent/31b47343ee2021cfc653ba9d7adaf4919b072416/public/assets/images/our42vent_logo_black.svg#gh-light-mode-only' alt='our42vent_logo_white' width='200' height='' style='background:#13171d'/>
+  
+</p>
+
+
+<br>
+<p align='center'>
+  <b><em>
+    2022 ELCO 전시회 - 참참참 게임
+    </em>
+  </b>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
 <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>
