@@ -3,7 +3,7 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>
 
-**참참참 게임**
+**2022 ELCO 전시회 - 참참참 게임**
 
 
 ## :stuck_out_tongue_closed_eyes: 팀장
