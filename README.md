@@ -1,6 +1,6 @@
 # chamchamchamgame
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
 
 
 |역할|학번|팀명|
