@@ -1,6 +1,6 @@
 # chamchamchamgame
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=2022 ELCO 참참참 게임&fontSize=90" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=2022 ELCO 참참참 게임&fontSize=90" >
 
 
 |역할|학번|팀명|
