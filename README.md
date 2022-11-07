@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a>
-
-
+</n>
+</n>
 
 |역할|학번|팀명|
 |------|:---:|---|
