@@ -1,4 +1,6 @@
 # chamchamchamgame
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 2022 ELCO 참참참 게임
 
 |역할|학번|팀명|
