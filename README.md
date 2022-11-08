@@ -9,7 +9,7 @@
   <b><em>
     2022 ELCO 전시회 - 참참참 게임<br>
     NOV/08/2022 - NOV/10/2022<br>
-    [KOOKMIN UNIV.EE](https://www.eswcontest.or.kr/)<br />
+    [국민대학교](https://www.kookmin.ac.kr/user/index.do)
     </em>
   </b>
 </p>
