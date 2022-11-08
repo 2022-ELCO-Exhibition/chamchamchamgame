@@ -8,6 +8,7 @@
 <p align='center'>
   <b><em>
     2022 ELCO 전시회 - 참참참 게임
+    NOV/08/2022 - NOV/10/2022
     </em>
   </b>
 </p>
