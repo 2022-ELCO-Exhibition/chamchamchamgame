@@ -8,7 +8,8 @@
 <p align='center'>
   <b><em>
     2022 ELCO 전시회 - 참참참 게임<br>
-    NOV/08/2022 - NOV/10/2022
+    NOV/08/2022 - NOV/10/2022<br>
+    KOOKMIN UNIV.EE
     </em>
   </b>
 </p>
