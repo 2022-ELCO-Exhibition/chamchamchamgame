@@ -3,7 +3,6 @@
 <br>
 <p align='center'>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=ELCO%20Exhibition&fontSize=90" />
-<img src='https://raw.githubusercontent.com/innovationacademy-kr/our42vent/31b47343ee2021cfc653ba9d7adaf4919b072416/public/assets/images/our42vent_logo_black.svg#gh-light-mode-only' alt='our42vent_logo_white' width='200' height='' style='background:#13171d'/>
 </p>
 <p align='center'>
   <b><em>
